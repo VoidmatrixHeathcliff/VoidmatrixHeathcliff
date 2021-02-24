@@ -35,9 +35,17 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EtherWorkCollection.svg?&label=★&labelColor=c90&color=red)](https://github.com/VoidmatrixHeathcliff/EtherWorkCollection/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/EtherWorkCollection.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/EtherWorkCollection/network/members)
 
+    - [【深空英雄】经典飞机大战弹幕射击游戏](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero)
+    [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/DeepSpaceHero.svg?&label=★&labelColor=c90&color=red)](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero/stargazers)
+    [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/DeepSpaceHero.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero/network/members)
+
     - [【CannotCloseMe】一个关不掉且烦人的窗口~](https://github.com/VoidmatrixHeathcliff/CannotCloseMe)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/CannotCloseMe.svg?&label=★&labelColor=c90&color=red)](https://github.com/VoidmatrixHeathcliff/CannotCloseMe/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/CannotCloseMe.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/CannotCloseMe/network/members)
+
+    - [【蓝屏模拟器】模拟 Windows 10 系统蓝屏](https://github.com/VoidmatrixHeathcliff/BlueScreen)
+    [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/BlueScreen.svg?&label=★&labelColor=c90&color=red)](https://github.com/VoidmatrixHeathcliff/BlueScreen/stargazers)
+    [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/BlueScreen.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/BlueScreen/network/members)
 
     - [【AlicePrototype】Python 实现的天气聊天机器人`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/AlicePrototype)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/AlicePrototype.svg?&label=★&labelColor=c90&color=red)](https://github.com/VoidmatrixHeathcliff/AlicePrototype/stargazers)
@@ -58,7 +66,7 @@
 
 + 标注为`（实验性）`的项目：为功能尚不完善或有缺陷的实验性代码，不建议将其放入实际的生成环境中
 
-+ 标注为`（暂停维护）`的项目：由于个人精力等问题暂时停止维护，未来是否继续开发不确定
++ 标注为`（暂停维护）`的项目：由于个人精力等问题暂时停止维护，不确定未来能否继续开发
 
 ## 欢迎联系：
 
