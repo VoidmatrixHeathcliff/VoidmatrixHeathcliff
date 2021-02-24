@@ -8,7 +8,7 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EtherEngine.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EtherEngine/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/EtherEngine.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/EtherEngine/network/members)
     
-    - [【BacklightEngine】基于Unity的视觉小说开发框架`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/BacklightEngine)
+    - [【BacklightEngine】基于Unity的视觉小说游戏开发框架`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/BacklightEngine)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/BacklightEngine.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/BacklightEngine/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/BacklightEngine.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/BacklightEngine/network/members)
 
