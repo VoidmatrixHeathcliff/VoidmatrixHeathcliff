@@ -55,7 +55,7 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/BlueScreen.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/BlueScreen/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/BlueScreen.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/BlueScreen/network/members)
 
-    - [【AlicePrototype】Python 实现的天气聊天机器人`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/AlicePrototype)
+    - [【AlicePrototype】Python 实现的天气查询、聊天机器人`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/AlicePrototype)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/AlicePrototype.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/AlicePrototype/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/AlicePrototype.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/AlicePrototype/network/members)
 
