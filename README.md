@@ -1,6 +1,14 @@
-## 这里是 `Voidmatrix` 的杂物间
+## 欢迎来到 `Voidmatrix` 的杂物间
 
-### 恭喜你找到了这里，如果继续浏览，那么接下来你可能将会看到一些几乎没有任何实用性的轮子
+### 下面是你可能感兴趣的项目
+
++ 🛠 轮子
+
+    + [【EtherEngine】轻量级模块化跨平台游戏引擎](https://github.com/VoidmatrixHeathcliff/EtherEngine)
+    [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EtherEngine.svg?&label=★&labelColor=c90&color=red)](https://github.com/RimoChan/Vtuber_Tutorial/stargazers)
+
+
+- [【EtherWorkCollection】去除文本马赛克的随机算法！](https://github.com/RimoChan/Night-Beam)
 
 | | |
 | :--: | :--: |
