@@ -1,12 +1,5 @@
 ## 欢迎来到 `Voidmatrix` 的杂物间
 
-<b>
-<image src='https://github-readme-stats.vercel.app/api?username=VoidmatrixHeathcliff&show_icons=true&theme=calm' height= 141></image>
-</b>
-<b>
-<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=VoidmatrixHeathcliff&layout=compact&theme=calm ' height= 141></image>
-</b>
-
 ## 下面是你可能感兴趣的项目
 
 + 🛠 ***粗陋的轮子***
@@ -78,3 +71,12 @@
 ## 欢迎联系：
 
 ### 📧 Voidmatrix@qq.com
+
+<b>
+<image src='https://github-readme-stats.vercel.app/api?username=VoidmatrixHeathcliff&show_icons=true&theme=calm' height= 141></image>
+</b>
+<b>
+<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=VoidmatrixHeathcliff&layout=compact&theme=calm ' height= 141></image>
+</b>
+
+<image src='https://github-profile-trophy.vercel.app/?username=VoidmatrixHeathcliff&theme=nord'></image>
