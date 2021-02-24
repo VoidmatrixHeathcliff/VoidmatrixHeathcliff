@@ -28,6 +28,10 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/CatteryCloud.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/CatteryCloud/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/CatteryCloud.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/CatteryCloud/network/members)
 
+    - [【SpeechSynthesis】Python 实现的百度语音合成助手客户端](https://github.com/VoidmatrixHeathcliff/SpeechSynthesis)
+    [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/SpeechSynthesis.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/SpeechSynthesis/stargazers)
+    [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/SpeechSynthesis.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/SpeechSynthesis/network/members)
+
 
 + 🎈 ***好玩的东西***
 
