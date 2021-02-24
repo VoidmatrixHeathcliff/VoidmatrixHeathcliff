@@ -39,11 +39,15 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EtherWorkCollection.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EtherWorkCollection/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/EtherWorkCollection.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/EtherWorkCollection/network/members)
 
+    - [【ChromeHacker】针对 Chrome 浏览器的病毒`（谨慎使用）`](https://github.com/VoidmatrixHeathcliff/ChromeHacker)
+    [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/ChromeHacker.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/ChromeHacker/stargazers)
+    [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/ChromeHacker.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/ChromeHacker/network/members)
+
     - [【DeepSpaceHero】经典飞机大战弹幕射击游戏](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/DeepSpaceHero.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/DeepSpaceHero.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero/network/members)
 
-    - [【CannotCloseMe】一个关不掉且烦人的窗口~](https://github.com/VoidmatrixHeathcliff/CannotCloseMe)
+    - [【CannotCloseMe】一个关不掉且烦人的窗口~`（谨慎使用）`](https://github.com/VoidmatrixHeathcliff/CannotCloseMe)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/CannotCloseMe.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/CannotCloseMe/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/CannotCloseMe.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/CannotCloseMe/network/members)
 
@@ -68,9 +72,11 @@
 
 ### 注意
 
-+ 标注为`（实验性）`的项目：为功能尚不完善或有缺陷的实验性代码，不建议将其放入实际的生成环境中
++ 标注为`（实验性）`的项目：功能尚不完善或有缺陷的实验性代码，不建议将其放入实际的生成环境中
 
-+ 标注为`（暂停维护）`的项目：由于个人精力等问题暂时停止维护，不确定未来能否继续开发
++ 标注为`（暂停维护）`的项目：由于个人精力等原因暂时停止维护，不确定未来能否继续开发
+
++ 标注为`（谨慎使用）`的项目：程序本身可能包含恶意代码或拥有特殊行为
 
 ## 欢迎联系：
 
