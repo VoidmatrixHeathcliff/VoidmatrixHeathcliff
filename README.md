@@ -35,7 +35,7 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EtherWorkCollection.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EtherWorkCollection/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/EtherWorkCollection.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/EtherWorkCollection/network/members)
 
-    - [【深空英雄】经典飞机大战弹幕射击游戏](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero)
+    - [【DeepSpaceHero】经典飞机大战弹幕射击游戏](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/DeepSpaceHero.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/DeepSpaceHero.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero/network/members)
 
@@ -43,7 +43,7 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/CannotCloseMe.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/CannotCloseMe/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/CannotCloseMe.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/CannotCloseMe/network/members)
 
-    - [【蓝屏模拟器】模拟 Windows 10 系统蓝屏](https://github.com/VoidmatrixHeathcliff/BlueScreen)
+    - [【BlueScreen】模拟 Windows 10 系统蓝屏](https://github.com/VoidmatrixHeathcliff/BlueScreen)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/BlueScreen.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/BlueScreen/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/BlueScreen.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/BlueScreen/network/members)
 
