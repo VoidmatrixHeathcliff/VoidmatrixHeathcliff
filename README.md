@@ -24,7 +24,7 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/BytecodeMachine.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/BytecodeMachine/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/BytecodeMachine.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/BytecodeMachine/network/members)
 
-    - [【CatteryCloud】Vue + Node.js 实现的 FTP 服务器和客户端`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/CatteryCloud)
+    - [【CatteryCloud】Vue + Node.js 实现的 FTP 客户端和服务器`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/CatteryCloud)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/CatteryCloud.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/CatteryCloud/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/CatteryCloud.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/CatteryCloud/network/members)
 
