@@ -69,7 +69,7 @@
 
 + 🗑 ***垃圾桶***
 
-    - [【LeetcodeEveryday】菜鸡的力扣每日一刷汇总~](https://github.com/VoidmatrixHeathcliff/LeetcodeEveryday)
+    - [【LeetcodeEveryday】力扣通关，大厂坐穿](https://github.com/VoidmatrixHeathcliff/LeetcodeEveryday)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/LeetcodeEveryday.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/LeetcodeEveryday/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/LeetcodeEveryday.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/LeetcodeEveryday/network/members)
 
