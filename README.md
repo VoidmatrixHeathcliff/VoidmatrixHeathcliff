@@ -73,11 +73,11 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/LeetcodeEveryday.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/LeetcodeEveryday/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/LeetcodeEveryday.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/LeetcodeEveryday/network/members)
 
-    - [【EasyGame】~~会内存泄露的~~ Windows 平台游戏库](https://github.com/VoidmatrixHeathcliff/EasyGame)
+    - [【EasyGame】~~会内存泄露的~~ Windows 平台游戏库`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/EasyGame)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EasyGame.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EasyGame/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/EasyGame.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/EasyGame/network/members)
 
-    - [【PackageFilesUtil】二进制文件打包工具](https://github.com/VoidmatrixHeathcliff/PackageFilesUtil)
+    - [【PackageFilesUtil】二进制文件打包工具`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/PackageFilesUtil)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/PackageFilesUtil.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/PackageFilesUtil/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/PackageFilesUtil.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/PackageFilesUtil/network/members)
 
