@@ -47,6 +47,10 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/eLloHOrwlD.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/eLloHOrwlD/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/eLloHOrwlD.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/eLloHOrwlD/network/members)
 
+    - [【DaveEncrypt】使用 “歪比巴卜” 对字符串进行加密](https://github.com/VoidmatrixHeathcliff/DaveEncrypt)
+    [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/DaveEncrypt.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/DaveEncrypt/stargazers)
+    [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/DaveEncrypt.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/DaveEncrypt/network/members)
+
     - [【DeepSpaceHero】经典飞机大战弹幕射击游戏](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/DeepSpaceHero.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/DeepSpaceHero.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/DeepSpaceHero/network/members)
