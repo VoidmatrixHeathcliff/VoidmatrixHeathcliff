@@ -93,7 +93,7 @@
 
     - [【CardinalDevGroup】Cardinal 异世界构建小组](https://github.com/cardinaldevgroup)
 
-    - [【UniGal】Gal 标准大一统计划](https://github.com/Uni-Gal)
+    - [【UniGal】Galgame 标准大一统计划](https://github.com/Uni-Gal)
 
     - [【OrioleSoftware】Oriole • 墨拓 系统开发组](https://github.com/Uni-Gal)
 
