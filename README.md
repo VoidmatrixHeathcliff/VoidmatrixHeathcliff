@@ -2,7 +2,7 @@
 
 ### 下面是你可能感兴趣的项目
 
-+ 🛠 ***粗陋的轮子***
++ 🛠 ***轮子提供商***
 
     - [【EtherEngine】轻量级模块化跨平台游戏引擎](https://github.com/VoidmatrixHeathcliff/EtherEngine)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EtherEngine.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EtherEngine/stargazers)
@@ -37,7 +37,7 @@
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/SpeechSynthesis.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/SpeechSynthesis/network/members)
 
 
-+ 🎈 ***好玩的东西***
++ 🎈 ***有趣即正义***
 
     - [【EtherWorkCollection】EtherEngine 作品集](https://github.com/VoidmatrixHeathcliff/EtherWorkCollection)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EtherWorkCollection.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EtherWorkCollection/stargazers)
@@ -88,6 +88,14 @@
     - [【PackageFilesUtil】二进制文件打包工具`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/PackageFilesUtil)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/PackageFilesUtil.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/PackageFilesUtil/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/PackageFilesUtil.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/PackageFilesUtil/network/members)
+
++ 🚩 ***秘密工作组***
+
+    - [【CardinalDevGroup】Cardinal 异世界构建小组](https://github.com/cardinaldevgroup)
+
+    - [【UniGal】Gal 标准大一统计划](https://github.com/Uni-Gal)
+
+    - [【OrioleSoftware】Oriole • 墨拓 系统开发组](https://github.com/Uni-Gal)
 
 
 ### 注意
