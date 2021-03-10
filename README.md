@@ -47,6 +47,10 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/ChromeHacker.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/ChromeHacker/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/ChromeHacker.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/ChromeHacker/network/members)
 
+    - [【EroCoolSpider】EroCool 漫画图集网站爬虫](https://github.com/VoidmatrixHeathcliff/EroCoolSpider)
+    [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EroCoolSpider.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EroCoolSpider/stargazers)
+    [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/EroCoolSpider.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/EroCoolSpider/network/members)
+
     - [【eLloHOrwlD】用最繁琐的方式输出 Hello World](https://github.com/VoidmatrixHeathcliff/eLloHOrwlD)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/eLloHOrwlD.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/eLloHOrwlD/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/eLloHOrwlD.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/eLloHOrwlD/network/members)
