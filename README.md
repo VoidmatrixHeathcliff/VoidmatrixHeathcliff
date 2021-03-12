@@ -8,7 +8,7 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EtherEngine.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EtherEngine/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/EtherEngine.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/EtherEngine/network/members)
 
-    - [【LuaLibs】五花八门的 Lua 模块合集](https://github.com/VoidmatrixHeathcliff/LuaLibs)
+    - [【LuaLibs】Lua 模块合集 • 让 Lua 再次伟大](https://github.com/VoidmatrixHeathcliff/LuaLibs)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/LuaLibs.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/LuaLibs/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/LuaLibs.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/LuaLibs/network/members)
 
