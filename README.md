@@ -12,7 +12,7 @@
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/LuaLibs.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/LuaLibs/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/LuaLibs.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/LuaLibs/network/members)
 
-    - [【QGame】比 EtherEngine API 更简明的快速开发游戏库`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/QGame)
+    - [【QGame】轻量级跨平台 Lua 游戏库`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/QGame)
     [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/QGame.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/QGame/stargazers)
     [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/QGame.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/QGame/network/members)
 
