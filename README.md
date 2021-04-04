@@ -150,5 +150,3 @@
 </b>
 
 <image src='https://github-profile-trophy.vercel.app/?username=VoidmatrixHeathcliff&theme=nord'></image>
-
-**当前访客数：![](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=VoidmatrixHeathcliff.VoidmatrixHeathcliff.readme)**
