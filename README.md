@@ -9,6 +9,10 @@
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EtherEngine.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EtherEngine/stargazers)
 [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/EtherEngine.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/EtherEngine/network/members)
 
+- [【QuickServer】快速启动的服务端框架](https://github.com/VoidmatrixHeathcliff/QuickServer)
+[![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/QuickServer.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/QuickServer/stargazers)
+[![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/QuickServer.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/QuickServer/network/members)
+
 - [【LuaLibs】Lua 模块合集 • 让 Lua 再次伟大](https://github.com/VoidmatrixHeathcliff/LuaLibs)
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/LuaLibs.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/LuaLibs/stargazers)
 [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/LuaLibs.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/LuaLibs/network/members)
