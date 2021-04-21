@@ -107,6 +107,10 @@
 <details>
     <summary><i><strong>🗑 废料回收站</strong></i></summary>
 
+- [【GameDeveloperNotes】游戏开发者笔记](https://github.com/VoidmatrixHeathcliff/LeetcodeEveryday)
+[![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/GameDeveloperNotes.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/GameDeveloperNotes/stargazers)
+[![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/GameDeveloperNotes.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/GameDeveloperNotes/network/members)
+
 - [【LeetcodeEveryday】力扣通关，大厂坐穿](https://github.com/VoidmatrixHeathcliff/LeetcodeEveryday)
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/LeetcodeEveryday.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/LeetcodeEveryday/stargazers)
 [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/LeetcodeEveryday.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/LeetcodeEveryday/network/members)
