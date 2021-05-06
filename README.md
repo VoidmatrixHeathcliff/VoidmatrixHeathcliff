@@ -3,23 +3,20 @@
 ### 下面是你可能感兴趣的项目
 
 <details>
-    <summary><i><strong>🛠 轮子供应商</strong></i></summary>
+    <summary><i><strong>🛠 轮子供应商 [10]</strong></i></summary>
 
 - [【EtherAPI】简明易用的 Lua 跨平台游戏接口](https://github.com/VoidmatrixHeathcliff/EtherEngine)
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EtherEngine.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EtherEngine/stargazers)
 [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/EtherEngine.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/EtherEngine/network/members)
 
-- [【QuickServer】快速启动的服务端框架](https://github.com/VoidmatrixHeathcliff/QuickServer)
-[![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/QuickServer.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/QuickServer/stargazers)
-[![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/QuickServer.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/QuickServer/network/members)
+- [【Dream】高效简洁的 Lua 视觉小说游戏框架](https://github.com/VoidmatrixHeathcliff/Dream)
+[![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/Dream.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/Dream/stargazers)
+[![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/Dream.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/Dream/network/members)
+
 
 - [【LuaLibs】Lua 模块合集 • 让 Lua 再次伟大](https://github.com/VoidmatrixHeathcliff/LuaLibs)
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/LuaLibs.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/LuaLibs/stargazers)
 [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/LuaLibs.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/LuaLibs/network/members)
-
-    * [【LuaJsonLib】Lua 的 JSON 解析库](https://github.com/VoidmatrixHeathcliff/LuaJsonLib)
-    [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/LuaJsonLib.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/LuaJsonLib/stargazers)
-    [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/LuaJsonLib.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/LuaJsonLib/network/members)
 
 - [【QGame】轻量级跨平台 Lua 游戏库`（暂停维护）`](https://github.com/VoidmatrixHeathcliff/QGame)
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/QGame.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/QGame/stargazers)
@@ -52,7 +49,7 @@
 </details>
 
 <details>
-    <summary><i><strong>🎈 有趣即正义</strong></i></summary>
+    <summary><i><strong>🎈 有趣即正义 [12]</strong></i></summary>
 
 - [【Cataclysm-TLS】《大灾变：最后避难所》模拟策略游戏](https://github.com/VoidmatrixHeathcliff/Cataclysm-TLS)
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/Cataclysm-TLS.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/Cataclysm-TLS/stargazers)
@@ -105,7 +102,7 @@
 </details>
 
 <details>
-    <summary><i><strong>🗑 废料回收站</strong></i></summary>
+    <summary><i><strong>🗑 废料回收站 [4]</strong></i></summary>
 
 - [【GameDeveloperNotes】游戏开发者笔记](https://github.com/VoidmatrixHeathcliff/GameDeveloperNotes)
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/GameDeveloperNotes.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/GameDeveloperNotes/stargazers)
@@ -127,7 +124,7 @@
 
 
 <details>
-    <summary><i><strong>🚩 秘密工作组</strong></i></summary>
+    <summary><i><strong>🚩 秘密工作组 [3]</strong></i></summary>
 
 - [【CardinalDevGroup】Cardinal 异世界构建小组](https://github.com/cardinaldevgroup)
 
