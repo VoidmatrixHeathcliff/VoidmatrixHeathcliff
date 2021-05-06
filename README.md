@@ -9,7 +9,7 @@
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EtherEngine.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EtherEngine/stargazers)
 [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/EtherEngine.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/EtherEngine/network/members)
 
-- [【Dream】高效强大的 Lua 视觉小说游戏框架](https://github.com/VoidmatrixHeathcliff/Dream)
+- [【DreamFramework】高效强大的 Lua 视觉小说游戏框架](https://github.com/VoidmatrixHeathcliff/Dream)
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/Dream.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/Dream/stargazers)
 [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/Dream.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/Dream/network/members)
 
