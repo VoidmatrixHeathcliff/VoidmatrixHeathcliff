@@ -5,7 +5,7 @@
 <details>
     <summary><strong>🛠 轮子供应商 [10]</strong></summary>
 
-- [【EtherAPI】简明易用的 Lua 跨平台游戏接口](https://github.com/VoidmatrixHeathcliff/EtherEngine)
+- [【EtherEngine】简明易用的 Lua 跨平台游戏接口](https://github.com/VoidmatrixHeathcliff/EtherEngine)
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EtherEngine.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EtherEngine/stargazers)
 [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/EtherEngine.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/EtherEngine/network/members)
 
