@@ -26,9 +26,9 @@
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/BacklightEngine.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/BacklightEngine/stargazers)
 [![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/BacklightEngine.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/BacklightEngine/network/members)
 
-- [【OpenChat】轻量级公共聊天室前后端](https://github.com/VoidmatrixHeathcliff/OpenChat)
-[![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/OpenChat.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/OpenChat/stargazers)
-[![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/OpenChat.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/OpenChat/network/members)
+- [【NiceGUI】基于 EtherEngine 的轻量级 GUI 库](https://github.com/VoidmatrixHeathcliff/NiceGUI)
+[![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/NiceGUI.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/NiceGUI/stargazers)
+[![](https://img.shields.io/github/forks/VoidmatrixHeathcliff/NiceGUI.svg?&label=ி&labelColor=green&color=blue)](https://github.com/VoidmatrixHeathcliff/NiceGUI/network/members)
 
 - [【EasyDrawXML】使用 XML 进行快速绘图的浏览器底层模型`（实验性）`](https://github.com/VoidmatrixHeathcliff/EasyDrawXML)
 [![](https://img.shields.io/github/stars/VoidmatrixHeathcliff/EasyDrawXML.svg?&label=★&labelColor=orange&color=yellow)](https://github.com/VoidmatrixHeathcliff/EasyDrawXML/stargazers)
